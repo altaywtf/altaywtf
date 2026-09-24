@@ -2,6 +2,8 @@
 
 FE/AI platform at a fintech, building [put.io](https://put.io) apps since 2017, helping out [openclaw](https://github.com/openclaw/openclaw).
 
+---
+
 **What I'm up to**
 
 - 📦 [@putdotio](https://github.com/putdotio): web, iOS, Android, Roku, SDKs, the lot
